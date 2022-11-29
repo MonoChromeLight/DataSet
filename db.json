@@ -1,0 +1,114 @@
+{
+  "team": [
+    {
+      "id": 10101,
+      "image": "https://img.freepik.com/free-photo/smiling-young-man-standing-holding-tablet-computer_1262-18710.jpg?size=626&ext=jpg&ga=GA1.2.1689300859.1668772847&semt=sph",
+      "name": "Corey House",
+      "title": "Web Developer"
+    },
+    {
+      "id": 10102,
+      "image": "https://img.freepik.com/free-photo/attractive-mixed-race-male-with-positive-smile-shows-white-teeth-keeps-hands-stomach-being-high-spirit-wears-white-shirt-rejoices-positive-moments-life-people-emotions-concept_273609-15527.jpg?size=626&ext=jpg&ga=GA1.2.1689300859.1668772847&semt=sph",
+      "name": "Kyle Simpson",
+      "title": "Web Developer"
+    },
+    {
+      "id": 10103,
+      "image": "https://img.freepik.com/free-photo/handsome-young-man-white-t-shirt-cross-arms-chest-smiling-pleased_176420-21607.jpg?size=626&ext=jpg&ga=GA1.2.1689300859.1668772847&semt=sph",
+      "name": "Austin Bingham",
+      "title": "Python Developer"
+    },
+    {
+      "id": 10104,
+      "image": "https://img.freepik.com/free-photo/confident-handsome-guy-posing-against-white-wall_176420-32936.jpg?size=626&ext=jpg&ga=GA1.2.1689300859.1668772847&semt=sph",
+      "name": "John Sonmez",
+      "title": "Android Developer"
+    },
+    {
+      "id": 10105,
+      "image": "https://img.freepik.com/free-photo/portrait-handsome-young-man-with-crossed-arms_176420-15569.jpg?size=626&ext=jpg&ga=GA1.2.1689300859.1668772847&semt=sph",
+      "name": "Jim Wilson",
+      "title": "Java Developer"
+    }
+  ],
+  "courses": [
+    {
+      "id": 10,
+      "courseTitle": "JavaScript for FE Development",
+      "courseImg": "https://img.freepik.com/free-photo/workers-considering-term-agreement_1098-1517.jpg?w=1380&t=st=1669302931~exp=1669303531~hmac=1076cb8c3b86078d1cd898d4936a9e57468d2ac7f24fe719975e8afc6ef84219",
+      "lessonCount": 10,
+      "courseCategory": "Development",
+      "authorImg": "https://img.freepik.com/free-photo/portrait-cheerful-attractive-young-woman-longsleeve-standing-with-arms-crossed-smiling_295783-39.jpg?w=1380&t=st=1669303694~exp=1669304294~hmac=009c2f12c07c75edd8749e57e7c566c150d3430b80bf5f397571b56838a707f9",
+      "authorName": "Roberta Fox",
+      "authorTitle": "Front-End developer ",
+      "studentCount": "",
+      "rate": 4
+    },
+    {
+      "id": 20,
+      "lessonCount": 10,
+      "courseTitle": "JavaScript for FE Development 2",
+      "courseImg": "https://img.freepik.com/free-photo/workers-considering-term-agreement_1098-1517.jpg?w=1380&t=st=1669302931~exp=1669303531~hmac=1076cb8c3b86078d1cd898d4936a9e57468d2ac7f24fe719975e8afc6ef84219",
+      "courseCategory": "Development",
+      "authorImg": "https://img.freepik.com/free-photo/portrait-cheerful-attractive-young-woman-longsleeve-standing-with-arms-crossed-smiling_295783-39.jpg?w=1380&t=st=1669303694~exp=1669304294~hmac=009c2f12c07c75edd8749e57e7c566c150d3430b80bf5f397571b56838a707f9",
+      "authorName": "Roberta Fox",
+      "authorTitle": "Front-End developer ",
+      "studentCount": "",
+      "rate": 3.5
+    },
+    {
+      "id": 30,
+      "courseTitle": "JavaScript for FE Development 3",
+      "courseImg": "https://img.freepik.com/free-photo/workers-considering-term-agreement_1098-1517.jpg?w=1380&t=st=1669302931~exp=1669303531~hmac=1076cb8c3b86078d1cd898d4936a9e57468d2ac7f24fe719975e8afc6ef84219",
+      "lessonCount": 10,
+      "courseCategory": "Development",
+      "authorImg": "https://img.freepik.com/free-photo/portrait-cheerful-attractive-young-woman-longsleeve-standing-with-arms-crossed-smiling_295783-39.jpg?w=1380&t=st=1669303694~exp=1669304294~hmac=009c2f12c07c75edd8749e57e7c566c150d3430b80bf5f397571b56838a707f9",
+      "authorName": "Roberta Fox",
+      "authorTitle": "Front-End developer ",
+      "studentCount": "",
+      "rate": 5
+    }
+  ],
+  "categories": [
+    {
+      "id": 1001,
+      "name": "Are and Design",
+      "icon": "palette"
+    },
+    {
+      "id": 1002,
+      "name": "Development",
+      "icon": "code"
+    },
+    {
+      "id": 1003,
+      "name": "Communication",
+      "icon": "forum"
+    },
+    {
+      "id": 1004,
+      "name": "Video editing",
+      "icon": "video_settings"
+    },
+    {
+      "id": 1005,
+      "name": "Photography",
+      "icon": "photo_camera"
+    },
+    {
+      "id": 1006,
+      "name": "Marketing",
+      "icon": "shop"
+    },
+    {
+      "id": 1007,
+      "name": "Content writing",
+      "icon": "edit_note"
+    },
+    {
+      "id": 1008,
+      "name": "Finance",
+      "icon": "account_balance"
+    }
+  ]
+}
